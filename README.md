@@ -39,10 +39,10 @@ ng serve -o
 
 # Create component without spec.ts
 ```
-ng g c share/header --spec=false
+ng g c shared/header --spec=false
 ```
 or
 
 ```
-ng general component share/header --spec=false
+ng generate component shared/header --spec=false
 ```
