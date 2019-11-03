@@ -1,3 +1,17 @@
+<p align="center">
+    <img src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" width="150">
+</p>
+
+<p align="center">
+    <a href="https://travis-ci.org/laravel/framework">
+        <img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+    </a>
+    <a href="https://packagist.org/packages/laravel/framework">
+        <img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License">
+    </a>
+</p>
+
+
 # PortafolioAngularjs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
