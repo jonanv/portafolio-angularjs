@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" width="200">
+    <img src="https://i.imgur.com/bF1WkFW.png" width="300">
 </p>
 
 <p align="center">
@@ -10,7 +10,6 @@
         <img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License">
     </a>
 </p>
-
 
 # PortafolioAngularjs
 
