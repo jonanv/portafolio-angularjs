@@ -59,3 +59,12 @@ or
 ```
 ng generate component shared/header --spec=false
 ```
+
+# Create service
+```
+ng g s services/infoPagina --spec=false
+```
+or
+```
+ng generate srvice services/infoPagina --spec=false
+```
