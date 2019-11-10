@@ -6,14 +6,18 @@ import { HttpClient } from '@angular/common/http';
 })
 export class InfoPaginaService {
 
-  constructor(private http: HttpClient) {
+  info: any = {};
+  cargada = false;
 
-    // console.log("Servicio de página cargada");
+  constructor(private http: HttpClient) {
 
     //Leer el archivo JSON
     this.http.get('assets/data/data-pagina.json')
       .subscribe(response => {
-        console.log(response['twitter']);
+        this.cargada = true;
+        this.info = response;
+
+        console.log(response);
       });
 
   }
