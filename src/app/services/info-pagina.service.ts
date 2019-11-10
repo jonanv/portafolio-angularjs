@@ -5,5 +5,7 @@ import { Injectable } from '@angular/core';
 })
 export class InfoPaginaService {
 
-  constructor() { }
+  constructor() {
+    console.log("Servicio de página cargada");
+  }
 }
