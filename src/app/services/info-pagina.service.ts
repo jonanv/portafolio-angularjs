@@ -23,7 +23,7 @@ export class InfoPaginaService {
         this.cargada = true;
         this.info = response;
 
-        console.log(response);
+        // console.log(response);
       });
   }
 
@@ -34,7 +34,7 @@ export class InfoPaginaService {
       this.cargada = true;
       this.equipo = response;
 
-      console.log(response);
+      // console.log(response);
     })
   }
 }
