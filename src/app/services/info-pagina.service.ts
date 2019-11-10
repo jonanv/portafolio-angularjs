@@ -9,7 +9,7 @@ export class InfoPaginaService {
 
   info: Infopagina = {};
   cargada = false;
-  equipo: any = [];
+  equipo: any[] = [];
 
   constructor(private http: HttpClient) {
     this.cargarInfo();
@@ -30,7 +30,7 @@ export class InfoPaginaService {
   private cargarEquipo() {
     //Leer el servicio de firebase
     this.http.get('https://portafolio-angularjs.firebaseio.com/equipo.json')
-    .subscribe((response) => {
+    .subscribe((response: any[]) => {
       this.cargada = true;
       this.equipo = response;
 
