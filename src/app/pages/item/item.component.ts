@@ -22,9 +22,9 @@ export class ItemComponent implements OnInit {
         // console.log(parametros['id']);
         this.productoService.getProducto(parametros['id'])
           .subscribe((producto: ProductoDescripcion) => {
+            // console.log(producto);
             this.producto = producto;
             this.id = parametros['id'];
-            // console.log(producto);
           });
       });
   }
