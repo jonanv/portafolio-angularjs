@@ -10,7 +10,7 @@ import { InfoPaginaService } from '../../services/info-pagina.service';
 export class HeaderComponent implements OnInit {
 
   constructor(public infoPaginaService: InfoPaginaService,
-    private router: Router) { }
+              private router: Router) { }
 
   ngOnInit() {
   }
