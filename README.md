@@ -14,7 +14,7 @@
 # Site
 https://jonanv.github.io/portafolio-angularjs/
 
-![Imgur](https://i.imgur.com/kDfGL0i.png)
+![Imgur](https://i.imgur.com/6BOG9Q9.png)
 
 # PortafolioAngularjs
 
