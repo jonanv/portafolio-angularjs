@@ -82,3 +82,7 @@ deploy in ```/portafolio-angularjs/dist/portafolio-angularjs/```
 ```
 http-server
 ```
+or
+```
+http-server -o
+```
