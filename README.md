@@ -75,7 +75,10 @@ ng build --prod
 ```
 
 # Server local
-in ```/portafolio-angularjs/dist/portafolio-angularjs/```
+install global ```sudo npm i -g http-server```
+
+deploy in ```/portafolio-angularjs/dist/portafolio-angularjs/```
+
 ```
-http-serve
+http-server
 ```
