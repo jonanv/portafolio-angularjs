@@ -73,3 +73,9 @@ ng generate service services/infoPagina --spec=false
 ```
 ng build --prod
 ```
+
+# Server local
+in ```/portafolio-angularjs/dist/portafolio-angularjs/```
+```
+http-serve
+```
