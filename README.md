@@ -69,3 +69,7 @@ or
 ```
 ng generate service services/infoPagina --spec=false
 ```
+# Create project build to production
+```
+ng build --prod
+```
