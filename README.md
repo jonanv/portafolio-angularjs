@@ -14,6 +14,8 @@
 # Site
 https://jonanv.github.io/portafolio-angularjs/
 
+![Imgur](https://i.imgur.com/kDfGL0i.png)
+
 # PortafolioAngularjs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
