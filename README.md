@@ -16,6 +16,17 @@ https://jonanv.github.io/portafolio-angularjs/
 
 ![Imgur](https://i.imgur.com/6BOG9Q9.png)
 
+# Install dependences
+in ```portafolio-angularjs/```
+
+```
+npm install
+```
+or
+```
+yarn install
+```
+
 # PortafolioAngularjs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
