@@ -19,11 +19,11 @@ https://jonanv.github.io/portafolio-angularjs/
 # Install dependences
 in ```portafolio-angularjs/```
 
-```
+```javascript
 npm install
 ```
 or
-```
+```javascript
 yarn install
 ```
 
@@ -58,35 +58,35 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ***
 
 # Create project
-```
+```javascript
 ng new NameProject
 ```
 
 # Start project with browser
-```
+```javascript
 ng serve -o
 ```
 
 # Create component without spec.ts
-```
+```javascript
 ng g c shared/header --spec=false
 ```
 or
 
-```
+```javascript
 ng generate component shared/header --spec=false
 ```
 
 # Create service
-```
+```javascript
 ng g s services/infoPagina --spec=false
 ```
 or
-```
+```javascript
 ng generate service services/infoPagina --spec=false
 ```
 # Create project build to production
-```
+```javascript
 ng build --prod
 ```
 
@@ -95,10 +95,10 @@ install global ```sudo npm i -g http-server```
 
 deploy in ```/portafolio-angularjs/dist/portafolio-angularjs/```
 
-```
+```javascript
 http-server
 ```
 or
-```
+```javascript
 http-server -o
 ```
