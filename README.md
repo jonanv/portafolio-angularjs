@@ -1,15 +1,9 @@
-<p align="center">
-    <img src="https://i.imgur.com/bF1WkFW.png" width="300">
-</p>
+![angularjs](https://i.imgur.com/bF1WkFW.png)
 
-<p align="center">
-    <a href="https://travis-ci.org/laravel/framework">
-        <img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
-    </a>
-    <a href="https://packagist.org/packages/laravel/framework">
-        <img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License">
-    </a>
-</p>
+[![NPM Version][npm-badge]][npm-url]
+[![Node JS][node-badge]][node-url]
+[![Angular JS][angular-badge]][angular-url]
+[![License][license-badge]][license-url]
 
 # Site
 https://jonanv.github.io/portafolio-angularjs/
@@ -102,3 +96,12 @@ or
 ```javascript
 http-server -o
 ```
+
+[npm-badge]: https://img.shields.io/badge/npm-v6.9.0-brightgreen.svg
+[npm-url]: https://www.npmjs.com
+[node-badge]: https://img.shields.io/badge/nodejs-v10.16.3-brightgreen
+[node-url]: https://nodejs.org/download/release/v10.16.3/
+[angular-badge]: https://img.shields.io/badge/angularjs-v8.3.17-brightgreen
+[angular-url]: https://angular.io/cli/
+[license-badge]: https://img.shields.io/badge/license-MIT-green.svg
+[license-url]: https://opensource.org/licenses/MIT
