@@ -103,7 +103,7 @@ http-server -o
 [npm-url]: https://www.npmjs.com
 [node-badge]: https://img.shields.io/badge/nodejs-v10.16.3-brightgreen
 [node-url]: https://nodejs.org/download/release/v10.16.3/
-[angular-badge]: https://img.shields.io/badge/angularjs-v8.3.17-brightgreen
+[angular-badge]: https://img.shields.io/badge/angularjs-v8.3.12-brightgreen
 [angular-url]: https://angular.io/cli/
 [license-badge]: https://img.shields.io/badge/license-MIT-green.svg
 [license-url]: https://opensource.org/licenses/MIT
