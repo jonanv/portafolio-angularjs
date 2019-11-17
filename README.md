@@ -19,11 +19,11 @@ https://jonanv.github.io/portafolio-angularjs/
 # Install dependences
 in ```portafolio-angularjs/```
 
-```javascript
+```bash
 npm install
 ```
 or
-```javascript
+```bash
 yarn install
 ```
 
