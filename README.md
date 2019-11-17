@@ -10,7 +10,7 @@
 # Site
 https://jonanv.github.io/portafolio-angularjs/
 
-![Imgur](https://i.imgur.com/6BOG9Q9.png)
+![Portafolio angularjs](https://i.imgur.com/6BOG9Q9.png)
 
 # Install dependences
 in ```portafolio-angularjs/```
