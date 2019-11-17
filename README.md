@@ -1,4 +1,6 @@
-![angularjs](https://i.imgur.com/bF1WkFW.png)
+<p align="center">
+    <img src="https://i.imgur.com/bF1WkFW.png" width="300">
+</p>
 
 [![NPM Version][npm-badge]][npm-url]
 [![Node JS][node-badge]][node-url]
